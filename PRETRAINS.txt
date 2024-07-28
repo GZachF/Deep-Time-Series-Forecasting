@@ -1,0 +1,10 @@
+
+To download pretraining weights derived from the tidepool database (https://www.tidepool.org/), follow this link:
+
+https://drive.google.com/file/d/1VXO2wT7M0htjVGbd6hk2935q52AteI7A/view?usp=sharing
+
+Weights are included for:
+-an N-BEATS implementation with a 30 minute prediction horizon and 10 blocks and 512 hidden units
+-our architecture with both 30 and 60 minute horizons. 
+
+Pretraining weights were derived with a random seed of 0.
